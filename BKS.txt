@@ -1,35 +1,71 @@
-Question:How can I attend the Brooklyn Steam center?
+1.Question:How can I attend the Brooklyn Steam center?
 
 Answer: You can attend by attending the 8 partner schools such as High school for Global Citizenship, Medgar Evers College Preparatory School, George Westinghouse CTE High School, S.T.A.R. Early College High School, Boys and Girls High School, Science Skills Center High School, or Bedford Academy.
 
-Question: What is the General Admissions process?
+2. Question: What is the General Admissions process?
 
 Answer: First you must Research us and our partner schools to determine if we would be the right fit. Apply in the NYC High School Admissions Application for a partner school using the specific Brooklyn STEAM Center code and then be accepted there. Complete accelerated coursework in Grades 9 & 10 while engaging with semi-annual STEAM events to accumulate credits and learn more about us. Lastly Submit near the end of Grade 10 your Brooklyn STEAM Center supplementary application (pick your pathway) and await your acceptance notification!
 
-Question: How many pathways are there and what are they?
+3.Question: How many pathways are there and what are they?
 
 Answer: There are 6 industry pathways which is Cybersecurity, Design and Engineering, Film and Media, Full-Stack Development, Construction Technology, and Culinary Arts + Hospitality Management.
 
-Question: What is the Culinary Arts + Hospitality Management pathway?
+4.Question: What is the Culinary Arts + Hospitality Management pathway?
 
 Answer: Scholars will study hospitality management, food science, and nutrition by developing skills like food safety and sanitation, food preparation, food and beverage management, and event planning. Certifications include NYC Food Handler License, ServSafe Food Handler Certification, and NOCTI Prep Cook. Major projects include the handling of a local food cart for public consumption and catering events for industry partners.
 
-Question: What is the Construction Technology pathway?
+5.Question: What is the Construction Technology pathway?
 
 Answer: Scholars will study carpentry, masonry, residential building and electrical, and plumbing by developing skills like using construction math, interpreting plans and drawings, using hand and power tools, and installing electrical and plumbing systems. Certifications include OSHA 30, NCCER Core, NCCER Construction Technology, and Solar One. Major projects include the fabrication of a tiny home inside a shipping container and constructing a theater set.
 
-Question: What is the Full-Stack Development pathway?
+6.Question: What is the Full-Stack Development pathway?
 
 Answer:Scholars will study IT Fundamentals, Front-End Development, Back-End Development, Full-Stack Integration. Projects are centered on building functional web applications, such as social media platforms, forums, and developer tools. Certifications include OSHA 10 CompTIA ITF+, Certiport ITS – HTML & CSS + Python, and Python Institute PCEP & PCAP.
 
-Question: What is the Film and Media pathway?
+7.Question: What is the Film and Media pathway?
 
 Answer:Scholars will study video production, post-production, audio engineering, and storytelling by developing skills in editing, post-production, sound design, and audio recording. Certifications include AVID Pro Tools and Adobe Premiere Pro and Photoshop. Major projects include the development of a podcast series and the full development process of a self-produced music video.
 
-Question: What is the Design and Engineering pathway?
+8.Question: What is the Design and Engineering pathway?
 
 Answer: Scholars will study robotics, computer-aided drawing and design, 3-D modeling and printing, and fabrication by developing skills like drafting and model making, solving problems using an engineering design process, computer-aided design and fabrication, and electrical wiring. Certifications include the Solidworks and Rhino 6. Major projects include the development of architectural plans and designing real solutions to community problems.
 
-Question: What is the Cybersecurity pathway?
+9.Question: What is the Cybersecurity pathway?
 
 Answer: Scholars will study IT Fundamentals, Networking & Security, Penetration Testing Concepts, Cybersecurity Foundations and computer hardware and software, as well as tactics for hacking to support organizations with their own defense. Certifications include OSHA 10, CompTIA ITF+, Certiport ITS – Networking, Network Security, and Cybersecurity.
+
+10. Question: How can I get my working papers?
+
+Answer: You can complete a form on the brooklynsteamcenter.org site,then bring in your Working Papers Application, a Certificate of Physical Fitness or Doctor’s Statement, Proof of Age such as a Birth Certificate OR State Issued Photo OR Driver’s License OR Schooling Record. You don’t need the working papers if you are 18 years of age or older.
+
+11. Question: Does the Brooklyn steam center have any industry partners?
+
+Answer: Yes the Brooklyn steam center does have any industry paartners. They are Allendale Machinery Systems, Armada NYC, B+C Restaurant Group, Blank Technologies, Bonbite NYC, BRIC, Brooklyn Borough President Eric Adams, Brooklyn Navy Yard Development Corporation, Brooklyn Workforce Innovations, Casual Films Inc, Feirstein Graduate School of Cinema, Ferra Designs,FullStack Modular, Crye Precision, gCreate, HITN, Hush Studios, Joshua Sarantitis / Intersection Inc., New Lab, New York City College of Technology, Odom Telecom Consulting, LLC, OgoSport, LLC, Peaceful Warrior Productions, Picture Farm Production, Play Pattern LLC, Plaza Construction, Pratt Institute, Reel Works, Russ and Daughters, RZAPS, Nanotronics, SITU Fabrication, St. Francis College, Sweet Generation Bakery | RISE, The Sodium Ranch, LLC, Turner Construction Company, Underground Signs, Voltaic Systems, and Wegmans Food Markets.
+
+12.Quesion: What do these industry partners contribute to the Brooklyn Steam Center?
+
+Answer: Participating companies and industry professionals will help develop a pipeline of future workers with the requisite skills to be successful; Advise STEAM Center on the type of preparation young people should be receiving; Strengthen the STEAM community through relationships with staff and students; Provide company employees opportunities to volunteer and develop leadership; Develop relationships with other businesses at BNY and beyond; and, Highlight your organization’s civic contribution to the future of education and the local community.
+
+13. Question: Does the Brooklyn steam center help with post secondary plans?
+Answer: At the Brooklyn STEAM Center, we believe that all scholars should have a plan in place for their future. With that mindset, we recommend the “Learn & Earn” model where scholars continue their education and put their skills to work. In collaboration with our college partners, we are able to support the continuing education efforts of our scholars, where they can take advantage of priority admissions, prior learning credit, and advanced standing. We invite postsecondary institutions to join our collaborative to support the pipeline for our scholars.
+
+14.Question: Do you track students into a particular option?
+Answer: No, we believe in supporting our youth with a pathway that works best with their needs. College, trade school, and apprenticeships all have their own advantages, that we present to our youth for them to make an informed decision.
+
+15.Question: Do you do tours?
+Answer: Yes, please reach out via our contact form to request a tour. 
+
+16.Question: Is there a fee for these explorations?
+Answer: It depends, we want to share our model as much as we can, and based on our conversation about collaboration, deep engagements may have a small fee. Rest assured these funds are used to add to our scholar compensation fund for our internship program.
+
+17.Question: How does this impact my high school graduation requirements?
+Answer: Our CTE Programs actually enable scholars to reduce their required 6 credits of LOTE (Language Other Than English) to 2 credits. In addition, we provide 13 elective credits (five more than required) on a scholar’s transcript that will heighten their GPA and stand out to colleges. In addition, we offer a bonus credit course for our internship program. Furthermore, scholars qualify for advanced annotations on their high school diplomas for the successful completion of our program.
+
+18.Question: Can Grade 11/12 students apply to the Brooklyn STEAM Center? 
+Answer: Usually, the answer to this question would be “No”. However, with proper advocacy and support from the partner high school, there may be opportunities for scholars to enter as a Year 2 student based on availability.
+
+19.Question: How will I know that I was accepted? Is there an orientation?
+Answer: The scholar, identified parent/guardian, and the respective school counselor will receive an email notification that you have been accepted that will also identify the appropriate CTE program that you can either accept or decline. Accepted scholars and their families will be invited to an orientation.
+
+20.Question: Is the Brooklyn STEAM Center currently hiring?
+Answer: You can use the Contact Us form and select the Potential Job option to determine if there are any specific positions open.
